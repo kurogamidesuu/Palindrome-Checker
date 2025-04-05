@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Palindrome-Checker
 A simple, aesthetic web app to check whether a string is a palindrome. Built with HTML, CSS, and JavaScript.
 =======
