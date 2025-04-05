@@ -46,7 +46,7 @@ A man, a plan, a canal - Panama! is a palindrome.
 
 No setup required!
 
-1. Clone the repository or [download ZIP](https://github.com/yourusername/palindrome-checker)
+1. Clone the repository or [download ZIP](https://github.com/kurogamidesuu/Palindrome-Checker/archive/refs/heads/main.zip)
 2. Open `index.html` in your browser
 3. Start checking palindromes!
 
